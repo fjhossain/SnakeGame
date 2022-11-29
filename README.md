@@ -1,0 +1,3 @@
+This java project is about me recreating the good old snake game that we all probably enjoyed playing in our parents' phones during childhood. I remember throwing the phone away countless times by getting frustrated cause I often used to lose, but the infamous Nokia phone didn't break obviously...
+
+I gave up fighting with phone long ago, and since my programming background is not that strong yet, so as a develper in making, I chose to create a simple version of that game in order to re-live those fun memories. Therefore, this java project is mainly built through using java.swing.*, gui, frames, Jpanels etc. 
